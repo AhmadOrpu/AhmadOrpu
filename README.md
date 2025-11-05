@@ -6,7 +6,7 @@
 
 I'm a Full-Stack Web Developer who is passionate about making error-free website with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented and always work with an end goal in mind. Over the past years , i created 20th of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time i work with NodeJS,NextJS,JavaScript,ReactJS ,MongoDB as well as Python.
 
-Skills: NODE JS / NEXT JS / MONGODB / JAVASCRIPT / REACT JS / CSS / TAILWIND CSS /  HTML / PYTHON
+Skills: NODE JS / NEXT JS / MONGODB / MySQL / JAVASCRIPT / REACT JS / CSS / TAILWIND CSS /  HTML / PYTHON
 
 - 🔭 I’m currently working on Learn With Orpu 
 - 🌱 I’m currently learning Python 
