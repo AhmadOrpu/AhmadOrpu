@@ -119,7 +119,7 @@ Next.js • PostgreSQL • Prisma • TypeScript
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmadOrpu&theme=github-compact"/>
 
 </p>
 
@@ -129,7 +129,7 @@ Next.js • PostgreSQL • Prisma • TypeScript
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&margin-w=10&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AhmadOrpu&theme=flat&margin-w=10&no-frame=true"/>
 
 </p>
 
