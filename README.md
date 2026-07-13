@@ -1,83 +1,163 @@
 <h1 align="center">Hi 👋, I'm Ahmad Orpu</h1>
-<h3 align="center">Full Stack Developer | Building Modern & Scalable Web Applications</h3>
 
 <p align="center">
-  Passionate about creating fast, responsive, and user-friendly web applications with modern technologies.
-  I enjoy solving real-world problems, learning new tools, and writing clean, maintainable code.
+  <b>Full Stack Developer</b> • JavaScript & TypeScript • React • Next.js • Node.js
+</p>
+
+<p align="center">
+I build scalable, high-performance web applications with modern JavaScript technologies.
+Passionate about clean architecture, intuitive user experiences, and solving real-world problems through software.
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 💻 Full Stack JavaScript Developer
-- 🌱 Currently exploring advanced backend architecture & cloud technologies
-- ⚡ Passionate about performance, clean code, and great UI/UX
+- 💼 Full Stack JavaScript Developer
+- 🚀 Building scalable web applications
+- 🌱 Currently learning Software Architecture & Cloud
+- 🎯 Focused on writing clean, maintainable code
 - 🤝 Open to collaboration on interesting projects
-- 📫 Reach me: **ahmadorpu95@gmail.com**
 
 ---
 
 ## 🛠 Tech Stack
 
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python" />
+</p>
+
 ### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css)
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square)
 
-### Database & ORM
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma" />
+</p>
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase)
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,docker" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+# 📌 Featured Projects
+
+### 🛒 E-Commerce Platform
+
+Modern full-stack e-commerce application with authentication, payment integration, admin dashboard, and responsive UI.
+
+**Tech Stack**
+
+React • Next.js • Node.js • Express • MongoDB • Stripe • Tailwind CSS
+
+---
+
+### 🌍 Travel Booking Platform
+
+Responsive travel website featuring destination browsing, authentication, booking management, and user dashboard.
+
+**Tech Stack**
+
+React • Firebase • Tailwind CSS • Express • MongoDB
+
+---
+
+### 📚 Library Management System
+
+RESTful API with authentication, CRUD operations, role-based authorization, and database optimization.
+
+**Tech Stack**
+
+Node.js • Express • MongoDB • JWT
+
+---
+
+### 📦 Inventory Management System
+
+Full-stack inventory application supporting products, orders, customers, analytics, and dashboard.
+
+**Tech Stack**
+
+Next.js • PostgreSQL • Prisma • TypeScript
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&margin-w=10&no-frame=true"/>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
 
 <p align="left">
-<a href="https://github.com/AhmadOrpu" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+
+<a href="https://github.com/AhmadOrpu">
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://www.linkedin.com/in/AhmadOrpu/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+<a href="https://linkedin.com/in/AhmadOrpu">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="mailto:ahmadorpu95@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail">
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
+
 </p>
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile! ⭐
+
+> *"First, solve the problem. Then, write clean code."*
+
 </p>
 
