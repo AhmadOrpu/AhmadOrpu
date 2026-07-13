@@ -14,7 +14,7 @@
 - 🌱 Currently exploring advanced backend architecture & cloud technologies
 - ⚡ Passionate about performance, clean code, and great UI/UX
 - 🤝 Open to collaboration on interesting projects
-- 📫 Reach me: **your-email@example.com**
+- 📫 Reach me: **ahmadorpu95@gmail.com**
 
 ---
 
